@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkeqdYTFnN2bjGDx1FXO0gKxy3C/E+YBmR1R/wG+EuNTY9V+QFcYHPCaxW6WUQTE1RNXNL19IrlOj+knklTLmA==",
+  "success": true,
+  "projectFilePath": "D:\\web-crawler-c-sharp\\Web-Crawler\\Web-Crawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ador\\.nuget\\packages\\htmlagilitypack\\1.11.51\\htmlagilitypack.1.11.51.nupkg.sha512"
+  ],
+  "logs": []
+}
